@@ -1,4 +1,35 @@
-# 19CS416-CS-Ex-3-Linux-Commands
+# 19CS416-CS-Ex-3a-oracle virtual box
+## Procedure:
+1. Go to the Website: Visit the official site at https://www.virtualbox.org.
+
+2. Click "Downloads": On the homepage, click the "Downloads" link in the left-hand menu.
+
+3. Choose Your OS: Select the version for your operating system (Windows, macOS, Linux, or Solaris).
+
+4. Download Installer: Click the link to download the installer file.
+
+5. Run the Installer: Once downloaded, open the file and follow the installation instructions.
+
+## Output:
+![WhatsApp Image 2025-04-13 at 13 57 30_7444d822](https://github.com/user-attachments/assets/2b373c3c-772a-4efa-86a5-cf66196e8d54)
+
+
+# 19CS416-CS-Ex-3b-Kali linux
+## Procedure:
+1. Go to the Website: Visit the official site at https://www.kali.org.
+
+2. Click “Download”: On the homepage, click the “Download” button or go to https://www.kali.org/get-kali/.
+
+3. Choose Version: Select the version you need (Installer, Live, or Virtual Machine), and choose 64-bit or 32-bit.
+
+4. Download ISO/VM Image: Click to download the ISO file or pre-built VirtualBox/Vmware image.
+
+5. Verify & Save: (Optional but recommended) Use the SHA256 hash to verify the file, then save it to your system.
+
+## Output:
+![Screenshot 2025-04-13 134457](https://github.com/user-attachments/assets/192936cd-be0d-430e-beb6-d91260513d27)
+
+# 19CS416-CS-Ex-3C-Linux-Commands
 
 **Linux** is an open-source operating system, and its kernel is the heart of the OS, facilitating communication between hardware and software. One of the key advantages of Linux is its customizability; developers can modify the Linux kernel to create their own tailored operating systems.
 
